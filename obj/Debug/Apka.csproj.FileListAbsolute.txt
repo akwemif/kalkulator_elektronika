@@ -1,0 +1,113 @@
+C:\Users\Student\Documents\219668\Apka\Apka\bin\Debug\Apka.exe.config
+C:\Users\Student\Documents\219668\Apka\Apka\bin\Debug\Apka.exe
+C:\Users\Student\Documents\219668\Apka\Apka\bin\Debug\Apka.pdb
+C:\Users\Student\Documents\219668\Apka\Apka\obj\Debug\Apka.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\219668\Apka\Apka\obj\Debug\Apka.Form1.resources
+C:\Users\Student\Documents\219668\Apka\Apka\obj\Debug\Apka.Properties.Resources.resources
+C:\Users\Student\Documents\219668\Apka\Apka\obj\Debug\Apka.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\219668\Apka\Apka\obj\Debug\Apka.exe
+C:\Users\Student\Documents\219668\Apka\Apka\obj\Debug\Apka.pdb
+C:\Users\Matrix\Desktop\Apka\Apka\bin\Debug\Apka.exe.config
+C:\Users\Matrix\Desktop\Apka\Apka\bin\Debug\Apka.exe
+C:\Users\Matrix\Desktop\Apka\Apka\bin\Debug\Apka.pdb
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.csprojAssemblyReference.cache
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Form1.resources
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Okno1.resources
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Properties.Resources.resources
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.csproj.GenerateResource.cache
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.csproj.CoreCompileInputs.cache
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.exe
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.pdb
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Okno2.resources
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Okno3.resources
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Okno4.resources
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Okno5.resources
+C:\Users\Matrix\Desktop\Apka\Apka\obj\Debug\Apka.Okno6.resources
+G:\Apka\Apka\bin\Debug\Apka.exe.config
+G:\Apka\Apka\bin\Debug\Apka.exe
+G:\Apka\Apka\bin\Debug\Apka.pdb
+G:\Apka\Apka\obj\Debug\Apka.csprojAssemblyReference.cache
+G:\Apka\Apka\obj\Debug\Apka.Form1.resources
+G:\Apka\Apka\obj\Debug\Apka.Okno1.resources
+G:\Apka\Apka\obj\Debug\Apka.Okno2.resources
+G:\Apka\Apka\obj\Debug\Apka.Okno3.resources
+G:\Apka\Apka\obj\Debug\Apka.Okno4.resources
+G:\Apka\Apka\obj\Debug\Apka.Okno5.resources
+G:\Apka\Apka\obj\Debug\Apka.Okno6.resources
+G:\Apka\Apka\obj\Debug\Apka.Properties.Resources.resources
+G:\Apka\Apka\obj\Debug\Apka.csproj.GenerateResource.cache
+G:\Apka\Apka\obj\Debug\Apka.csproj.CoreCompileInputs.cache
+G:\Apka\Apka\obj\Debug\Apka.exe
+G:\Apka\Apka\obj\Debug\Apka.pdb
+F:\Apka\Apka\bin\Debug\Apka.exe.config
+F:\Apka\Apka\obj\Debug\Apka.exe
+F:\Apka\Apka\obj\Debug\Apka.pdb
+C:\Users\Student\Desktop\Apka\Apka\bin\Debug\Apka.exe.config
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.exe
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.pdb
+C:\Users\Student\Desktop\Apka\Apka\bin\Debug\Apka.exe
+C:\Users\Student\Desktop\Apka\Apka\bin\Debug\Apka.pdb
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Form1.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Okno1.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Okno2.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Okno3.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Okno4.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Okno5.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Okno6.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.Properties.Resources.resources
+C:\Users\Student\Desktop\Apka\Apka\obj\Debug\Apka.csproj.GenerateResource.Cache
+C:\Users\Matrix\Desktop\Apka1\Apka\bin\Debug\Apka.exe.config
+C:\Users\Matrix\Desktop\Apka1\Apka\bin\Debug\Apka.exe
+C:\Users\Matrix\Desktop\Apka1\Apka\bin\Debug\Apka.pdb
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.csprojAssemblyReference.cache
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Form1.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Okno1.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Okno2.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Okno3.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Okno4.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Okno5.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Okno6.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.Properties.Resources.resources
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.csproj.GenerateResource.cache
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.csproj.CoreCompileInputs.cache
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.exe
+C:\Users\Matrix\Desktop\Apka1\Apka\obj\Debug\Apka.pdb
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.csprojAssemblyReference.cache
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Form1.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Okno1.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Okno2.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Okno3.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Okno4.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Okno5.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Okno6.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.Properties.Resources.resources
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.csproj.GenerateResource.cache
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.csproj.CoreCompileInputs.cache
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.exe
+C:\Users\pieta\Desktop\Apka1\Apka\obj\Debug\Apka.pdb
+C:\Users\pieta\Desktop\Apka1\Apka\bin\Debug\Apka.exe.config
+C:\Users\pieta\Desktop\Apka1\Apka\bin\Debug\Apka.exe
+C:\Users\pieta\Desktop\Apka1\Apka\bin\Debug\Apka.pdb
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\bin\Debug\Apka.exe.config
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\bin\Debug\Apka.exe
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\bin\Debug\Apka.pdb
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.csprojAssemblyReference.cache
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Form1.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Okno1.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Okno2.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Okno3.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Okno4.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Okno5.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Okno6.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.Properties.Resources.resources
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.csproj.GenerateResource.cache
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.csproj.CoreCompileInputs.cache
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.exe
+C:\Users\AK\Pobrane\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.pdb
+C:\Users\AK\Desktop\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.csprojAssemblyReference.cache
+C:\Users\AK\Desktop\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.exe
+C:\Users\AK\Desktop\Apka1 (1)\Apka1\Apka\obj\Debug\Apka.pdb
+C:\Users\AK\Desktop\Apka\obj\Debug\Apka.csprojAssemblyReference.cache
+C:\Users\AK\Desktop\Apka\obj\Debug\Apka.exe
+C:\Users\AK\Desktop\Apka\obj\Debug\Apka.pdb
